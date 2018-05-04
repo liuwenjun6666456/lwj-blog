@@ -45,3 +45,5 @@ webpack2.0的时候我们介绍过引用语法（import()）支持动态引入�
 import(/* webpackChunkName: "my-chunk-name" */ 'module');
 ```
 <a href="https://zhuanlan.zhihu.com/p/27475789">参考</a>
+
+#### Magic Comments
